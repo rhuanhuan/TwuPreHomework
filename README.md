@@ -1,0 +1,1 @@
+This project is made up of some small demos, which refers to the answer of course 'Getting ready for development at TWU => Introductory programming exercise => Assignments:Introductory programming exercise '
