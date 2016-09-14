@@ -18,7 +18,6 @@ public class NameDiamond {
                 }
                 System.out.print('\n');
             }
-
         }
     }
 }
